@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Original illustration: a Bag Ready school bag with supplies peeking out -->
+  <path d="M70 52 C70 28 130 28 130 52" fill="none" stroke="#14304a" stroke-width="8" stroke-linecap="round"/>
+  <!-- notebook and pencil peeking out of the bag -->
+  <rect x="62" y="40" width="44" height="40" rx="4" fill="#fff" stroke="#14304a" stroke-width="4" transform="rotate(-8 84 60)"/>
+  <line x1="70" y1="54" x2="96" y2="50" stroke="#2f8f6b" stroke-width="3" stroke-linecap="round"/>
+  <line x1="71" y1="63" x2="97" y2="59" stroke="#2f8f6b" stroke-width="3" stroke-linecap="round"/>
+  <g transform="rotate(12 125 50)">
+    <rect x="118" y="20" width="14" height="56" fill="#f2c230" stroke="#14304a" stroke-width="4"/>
+    <polygon points="118,20 125,6 132,20" fill="#f5deb3" stroke="#14304a" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+  <!-- bag body -->
+  <rect x="40" y="66" width="120" height="118" rx="22" fill="#2f8f6b" stroke="#14304a" stroke-width="6"/>
+  <!-- front pocket -->
+  <rect x="60" y="118" width="80" height="50" rx="12" fill="#f2c230" stroke="#14304a" stroke-width="5"/>
+  <line x1="60" y1="134" x2="140" y2="134" stroke="#14304a" stroke-width="4"/>
+  <circle cx="100" cy="134" r="5" fill="#14304a"/>
+  <!-- small handprint tag for "Mga Munting Kamay" -->
+  <g fill="#fff" stroke="#14304a" stroke-width="3">
+    <ellipse cx="100" cy="96" rx="13" ry="11"/>
+    <ellipse cx="88" cy="81" rx="4" ry="6"/>
+    <ellipse cx="96" cy="78" rx="4" ry="6.5"/>
+    <ellipse cx="104" cy="78" rx="4" ry="6.5"/>
+    <ellipse cx="112" cy="81" rx="4" ry="6"/>
+    <ellipse cx="116" cy="94" rx="4" ry="5.5" transform="rotate(35 116 94)"/>
+  </g>
+</svg>

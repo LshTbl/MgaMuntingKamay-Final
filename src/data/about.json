@@ -1,0 +1,32 @@
+{
+  "firstName": "Elisha",
+  "fullName": "Elisha N. Tabual",
+  "yearLevel": "third-year",
+  "course": "BSIT",
+  "courseFull": "Bachelor of Science in Information Technology",
+  "section": "BSIT-3B",
+  "school": "Angeles University Foundation",
+  "specialization": "IT Infrastructure",
+  "age": 21,
+  "birthday": "March 15, 2005",
+  "hometown": "Angeles City, Pampanga",
+  "family": "I have an older sister and I have two cute cats.",
+  "interestsTitle": "What I'm into",
+  "interests": "I am just a simple girl who likes to play volleyball, watch anime and kdrama, and play musical instruments. I also like to spend time with my family and friends, and I love kids. My love for children grew stronger as I started to be more involved in my church's children outreach ministry. I also enjoy taking care of animals, especially cats and dogs.",
+  "tags": ["Cats", "Dogs", "Volleyball", "Anime & Kdrama", "Kids", "Instruments & Music"],
+  "educationTitle": "My school journey",
+  "education": [
+    {
+      "school": "Claro M. Recto Information and Communication Technology High School",
+      "level": "Junior High School"
+    },
+    {
+      "school": "Angeles City Science High School",
+      "level": "Senior High School"
+    },
+    {
+      "school": "Angeles University Foundation",
+      "level": "Bachelor of Science in Information Technology, now in 3rd year"
+    }
+  ]
+}
